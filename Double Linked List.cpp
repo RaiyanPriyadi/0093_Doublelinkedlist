@@ -67,7 +67,7 @@ public:
         if (current->next != NULL)
             current->next->prev = nodeBaru;
 
-        current->next = nodeBaru;
+        current->next = nodeB
     }
 
     void hapus()
