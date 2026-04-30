@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-class N
+class No
 {
 public:
     int noMhs;
