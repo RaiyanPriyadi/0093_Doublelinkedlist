@@ -154,7 +154,7 @@ public:
         cout << endl;
     }
 
-     void searchData()
+    void searchData()
     {
         if (START == NULL)
         {
@@ -195,7 +195,7 @@ int main()
         cout << "Enter your choice: ";
         cin >> choice;
 
-         switch (choice)
+        switch (choice)
         {
         case '1':
             list.addNode();
@@ -226,7 +226,3 @@ int main()
 
     return 0;
 }
-
-
-
-
